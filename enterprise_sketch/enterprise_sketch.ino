@@ -13,17 +13,6 @@
 SoftwareSerial DFPlayerSerial(10, 11); // RX, TX
 
 
-
-//Sounds
-/*
- * 0001_opening.mp3 > 60s (1min)
- * 0002_bridge.mp3 > 870s (14min30s)
- * 0003_redalert.mp3 > 33s
- * 0004_phasers.mp3 > 30s
- * 0005_torpedoes.mp3 > 4s
- */
-
-
 //Button's pins
 const int button_theme1 = 14;
 const int button_theme = 15;
