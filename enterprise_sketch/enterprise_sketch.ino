@@ -1,7 +1,7 @@
 /*===================================== USS ENTERPRISE NCC-1701 ARDUINO SKETCH ===========================================================================
  * This sketch was written to control light and sound effects of the USS Enterprise NCC-1701 (Revell - 1:600) model.
  * Please note there are several ways to achieve the same effects or even different ones. This sketch was written as best suited to the author's needs. 
- * Authors: Guilherme Negrini & Luísa Lucchese
+ * Authors: JimmymaDdness edited Guilherme Negrini & Luísa Lucchese
  */
 
 
